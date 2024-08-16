@@ -1,6 +1,6 @@
 # rage-js
 
-A github organization which manages all RAGE packages (core, cli, tools, etc)
+A github organization which manages all RAGE packages (core, cli, tools, atlas, etc)
 
 ## Projects:
   - [@rage-js/core](https://github.com/rage-js/core) ⚡- Core module of RAGE.
